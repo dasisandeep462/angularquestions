@@ -1,0 +1,36 @@
+ Q:what is angular Routing?
+>Routes tells the Router which view to display when a user clicks a link or pastes a URL into the browser address bar
+
+ Q:How to interacting the frontend to backend?
+>By using HTTP client method we are interacting with external sources
+
+ Q:What is bootstrap?
+>Bootstrap is a free front-end framework for faster and easier web development.Bootstrap includes HTML and CSS based design template
+ for forms,buttons,tables,navigation,modals and manyother.It is also easily create Respnosive designs.
+
+ Q:What is the difference between HTTP client and HTTP?
+>HTTP client:Most frontend applications communicate with backend services over the http protocal.
+ HTTP:HTTP protocol defines how messages are formatted and transmitted, and what actions Web servers and browsers should take in response to various commands.
+
+ Q:What do know in CSS animation?
+>An animation lets an element gradually change from one style to another.In CSS animation, we specify some keyframes for the animation. When we specify CSS styles
+ inside the @keyframes rule, the animation will gradually change from the  current style to the new style at certain times.
+
+ Q:Tell me something in your project?
+ >My project description is mainly To meet the accounting, book keeping, company secretary, and tax needs of our clients  and to help our clients prosper by
+  providing them with a wide array of professional business and individual services,  products, and solutions to help them better manage their finances and employees
+
+ Q:Explain Angular architecture? 
+ > Building blocks of angular application are modules,templates,databinding,services,components,metadata,directives,dependency injection
+   Module:It is combination of components and services etc
+   template:It defines user interface,contains the html,directives and databindings
+   databinding:There are two types of bindings oneway binding,twoway binding
+               oneway binding:these bindings flow data in one direction i,e from a component class property to an html elememt property or flows data from an 
+                               html element to a component
+               Twoway binding:data flows from both directions
+   component: A component in angular is a class with a template and a decorator
+   metadata: Decorator adds metadata to the class making it  an angular component
+   services:Services are way to share information among classes that don't know each other
+   directives: directive changes the appearance or behavior of a DOM element
+   dependency injection:Dependency injection, is an important application design pattern. Angular has its own Dependency Injection framework, which is typically used in the
+                        design of Angular applications to increase their efficiency and modularity

@@ -1,0 +1,20 @@
+Q:what is node js?
+>Node.js is a  runtime environment and library for running JavaScript applications outside the browser.
+ It is used for creating server-side and networking web applications
+Q:why it is so lightweight and fast?
+> Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. 
+
+Q:what is eventloop and how its works?
+> Event loop is a main loop in the event driven application that listens for events, and then triggers
+ a callback function when one of those events is detected
+Q:whai is the difference between callback and promises?
+>Callback is an asynchronous equivalent for a function. It is called at the completion of each task.
+Q:what is the callback and why we are used it?
+> In Node.js, once file I/O is complete, it will call the callback function. So there is no blocking 
+  or wait for File I/O. 
+Q:what is event emitter and what is used of it?
+>event emitters are used to transmit the data from one component to another component and raise the events.
+Q:what is callback hell and how to avoid it?
+> written of code with more nested callback functionalitys with that its callback hell is happens
+Q:whai is require() module?
+>with required('') module we can connect the diffent modules like mongoos , express , jwt in nodejs to perform operations
